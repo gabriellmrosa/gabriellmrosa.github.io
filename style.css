@@ -7,6 +7,10 @@
 body{
     padding-top:16px;
 }
+.title{
+    text-align: center;
+    margin:0px 0px 16px;
+}
 .flex-area{
     display: flex;
 }
