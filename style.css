@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    padding-top:16px;
+}
+.flex-area{
+    display: flex;
+}
+.flex-area input{
+    margin-left:16px;
+}
+.flex-column{
+    flex-direction: column;
+}
+
+.j-space-between{
+    justify-content: space-between;
+}
+
+.linha{
+    align-items: center;;
+    margin:0px 0px 24px 0px;
+    background: rgba(0,0,0,0.05);
+    padding:8px;
+}
+
+.linha input{
+    width: 30%;;
+    height: 50px;
+    padding:4px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.biset{
+    margin:0px 0px 16px 0px;
+}
+.biset .linha{
+    position: relative;
+    margin:0px;
+}
+
+.biset > .linha:first-of-type:after{
+    content: '';
+    position: absolute;
+    bottom:0px;
+    left:30px;
+    width: 1px;
+    height: 40px;
+    background: rgba(0,0,0,0.1);
+    transform: translate(0%,50%);
+}
