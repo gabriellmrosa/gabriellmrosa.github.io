@@ -27,6 +27,7 @@
     margin:0px 0px 24px 0px;
     background: rgba(0,0,0,0.05);
     padding:8px;
+    text-transform: capitalize;
 }
 
 .linha input{
@@ -88,4 +89,17 @@ input#treino-b:checked ~ div.treino-b,
 input#treino-c:checked ~ div.treino-c,
 input#treino-d:checked ~ div.treino-d{
     display: block;
+}
+
+.btn{
+    background: #004CB2;
+    color:#fff;
+    font-size: 18px;
+    padding:15px;
+    width:95%;
+    margin:2px auto 30px auto;
+    display: block;
+    cursor:pointer;
+    border:none;
+    border-radius: 4px;
 }
