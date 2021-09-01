@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c1dae8e4.chunk.js",
+    "main.js.map": "/static/js/main.c1dae8e4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f853cfbf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f853cfbf.js.map",
+    "static/js/2.94527470.chunk.js": "/static/js/2.94527470.chunk.js",
+    "static/js/2.94527470.chunk.js.map": "/static/js/2.94527470.chunk.js.map",
+    "static/js/3.6ba912c4.chunk.js": "/static/js/3.6ba912c4.chunk.js",
+    "static/js/3.6ba912c4.chunk.js.map": "/static/js/3.6ba912c4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.94527470.chunk.js.LICENSE.txt": "/static/js/2.94527470.chunk.js.LICENSE.txt",
+    "static/media/bg-lines.51f9f527.svg": "/static/media/bg-lines.51f9f527.svg",
+    "static/media/incidentes-grupo 1.d7918548.png": "/static/media/incidentes-grupo 1.d7918548.png",
+    "static/media/incidentes-grupo 3.bc60bcee.png": "/static/media/incidentes-grupo 3.bc60bcee.png",
+    "static/media/logo-buser-white.65ecdf61.svg": "/static/media/logo-buser-white.65ecdf61.svg",
+    "static/media/mock-buser.6a6276ee.png": "/static/media/mock-buser.6a6276ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f853cfbf.js",
+    "static/js/2.94527470.chunk.js",
+    "static/js/main.c1dae8e4.chunk.js"
+  ]
+}
